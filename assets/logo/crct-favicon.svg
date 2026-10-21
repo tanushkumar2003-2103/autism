@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <circle cx="32" cy="32" r="30" fill="#174C45"/>
+  <circle cx="32" cy="32" r="26" fill="none" stroke="#D8E8E0" stroke-width="1.5" stroke-dasharray="2 2"/>
+  <!-- Spectrum arcs -->
+  <path d="M 16 32 A 16 16 0 0 1 48 32" fill="none" stroke="#E9BD87" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M 20 32 A 12 12 0 0 1 44 32" fill="none" stroke="#D8E8E0" stroke-width="2" stroke-linecap="round"/>
+  <!-- Cradling hands & human figure -->
+  <path d="M 18 38 C 23 47 31 50 32 50 C 33 50 41 47 46 38" fill="none" stroke="#F7F4EC" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="32" cy="24" r="3.5" fill="#F7F4EC"/>
+  <path d="M 32 28 L 32 42 M 25 33 L 39 33" stroke="#F7F4EC" stroke-width="2" stroke-linecap="round"/>
+</svg>
